@@ -1,2 +1,2 @@
 # ML
-Directory for ML related project
+Directory for ML related notebook
